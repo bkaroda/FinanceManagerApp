@@ -1,0 +1,8 @@
+.error{
+    color: red;
+}
+
+.form-control{
+    caret-color: blue;
+    color: red;
+}
